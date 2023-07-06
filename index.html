@@ -127,18 +127,17 @@
         <section class="settings">
             <h3>Settings</h3>
 
-            <label class="switch-light switch-candy" onclick="">
-                <input type="checkbox">
-                <strong>
-                    Send Email Notifications
-                </strong>
-
-                <span>
-                    <span>Off</span>
-                    <span>On</span>
-                    <a></a>
-                </span>
-            </label>
+            <fieldset>
+                <legend>Send Email Notifications</legend>
+                <div class="switch-toggle switch-candy">
+                    <input id="off" name="view" type="radio" checked>
+                    <label for="off" onclick="">Off</label>
+                </div>
+                <div class="switch-toggle switch-candy">
+                    <input id="on" name="view" type="radio">
+                    <label for="on" name="view" type="radio">On</label>
+                </div>
+            </fieldset>
 
 
             <select class="form-field" id="timezone">
