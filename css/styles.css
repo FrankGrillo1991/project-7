@@ -8,17 +8,17 @@
     "main";
 }
 
-//element selector
+/*element selector- targeting element on line 10 */
 header {
     grid-area: header;
 }
 
-//class selector
+/*class selector */
 .navigation {
     grid-area: navigation;
 }
 
-//class selector
+/*class selector */
 .main {
     grid-area: main;
 }
