@@ -8,14 +8,17 @@
     "main";
 }
 
+//element selector
 header {
     grid-area: header;
 }
 
+//class selector
 .navigation {
     grid-area: navigation;
 }
 
+//class selector
 .main {
     grid-area: main;
 }
