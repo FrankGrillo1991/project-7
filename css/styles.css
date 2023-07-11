@@ -18,10 +18,6 @@ header {
     grid-area: navigation;
 }
 
-/*class selector */
-.main {
-    grid-area: main;
-}
 
 @media (min-width: 768px) {
     .grid-container {
@@ -43,7 +39,7 @@ header {
 }
 
 @media (min-width: 768px) {
-    .traffic, .social {
+    .traffic {
         grid-column: 1 / span 2;
     }
 }
