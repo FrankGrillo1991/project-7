@@ -16,6 +16,10 @@ header {
     width: 400px;
 }
 
+.bell-icon {
+    width: 30px;
+}
+
 /*class selector */
 .navigation {
     grid-area: navigation;
