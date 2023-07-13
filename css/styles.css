@@ -11,6 +11,7 @@
 /*element selector- targeting element on line 10 */
 header {
     grid-area: header;
+    color: lightblue;
 }
 
 /*class selector */
