@@ -16,10 +16,12 @@ header {
     color: white;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .bell-icon {
-    width: 30px;
+    display: flex;
+    width: 75px;
     fill: white;
 }
 
