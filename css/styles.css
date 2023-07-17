@@ -39,7 +39,7 @@ h1 {
     display: flex;
     width: 75px;
     fill: white;
-    border-right: 10em;
+    border-right-width: 2em;
 }
 
 /*class selector */
