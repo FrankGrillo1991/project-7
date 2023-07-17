@@ -23,6 +23,10 @@ header {
     align-items: center;
 }
 
+.header-image {
+    border-radius: 50%;
+}
+
 .bell-icon {
     display: flex;
     width: 75px;
