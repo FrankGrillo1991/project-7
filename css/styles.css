@@ -83,7 +83,7 @@ header {
 
 @media (min-width: 768px) {
 
-    .bell-icon {
+    .bell-div {
         display: -webkit-box;
         margin-left: auto;
     }
