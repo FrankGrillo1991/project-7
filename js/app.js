@@ -25,11 +25,12 @@ let trafficOptions = {
     }
 };
 
-let trafficChart = new CharacterData(trafficCanvas, {
+let trafficChart = new CharacterData(dailyCanvas, {
     type: 'line',
     data: trafficData,
     options: trafficOptions
 });
+
 
 const dailyData = {
     labels: ["S", "M", "T", "W", "T", "F", "S"],
