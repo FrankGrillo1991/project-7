@@ -10,3 +10,25 @@ alertBanner.addEventListener('click', e => {
         alertBanner.style.display = "none"
     }
 });
+
+let trafficOptions = {
+    backgroundColor: 'rgba(112, 104, 201, .5)',
+    fill: true,
+    aspectRatio: 2.5,
+    animation: {
+        duration: 0
+    },
+    scales: {
+        y: {
+            beginAtZero: true
+        }
+    }
+};
+
+let trafficChart = new CharacterData(trafficCanvas, {
+    type: 'line',
+    data: trafficData,
+    options: trafficOptions
+});
+
+
