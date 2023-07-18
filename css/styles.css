@@ -92,6 +92,7 @@ header {
 @media (min-width: 768px) {
 
     .bell-div {
+        fill: white;
         display: -webkit-box;
         margin-left: auto;
     }
