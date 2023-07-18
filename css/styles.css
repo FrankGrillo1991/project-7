@@ -45,7 +45,7 @@ h1 {
 .bell-div {
     display: flex;
     fill: white;
-    border-right: solid 50px;
+    border-right: solid;
 }
 
 .bell-icon {
