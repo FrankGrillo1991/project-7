@@ -26,7 +26,7 @@ let trafficOptions = {
     }
 };
 
-let trafficChart = new CharacterData(daily-chart, {
+let trafficChart = new Chart(trafficCanvas, {
     type: 'line',
     data: trafficData,
     options: trafficOptions
