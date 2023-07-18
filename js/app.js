@@ -102,4 +102,10 @@ const mobileOptions = {
     }
 };
 
+let mobileChart = new Chart(mobileCanvas, {
+    type: 'doughnut',
+    data: mobileData,
+    options: mobileOptions
+});
+
 
