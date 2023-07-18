@@ -67,6 +67,8 @@ h1 {
     }
 }
 
+@media (min-width: 768px) {
+    
 header {
     grid-area: header;
     width: 100%;
@@ -77,10 +79,8 @@ header {
     align-items: center;
     box-sizing: border-box;
 }
-
-.header-image {
-    margin-right: 10rem;
 }
+
 
 .main {
     display: grid;
