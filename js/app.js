@@ -1,4 +1,5 @@
 const alertBanner = document.getElementById("alert");
+const trafficChart = document.getElementById("daily");
 
 alertBanner.innerHTML = `<div class="alert-banner"><p><strong>Alert:</strong>You have unread messages</p>
 <p class="alert-banner-close">x</p>
@@ -30,6 +31,8 @@ let trafficChart = new CharacterData(daily, {
     data: trafficData,
     options: trafficOptions
 });
+
+
 
 
 const dailyData = {
