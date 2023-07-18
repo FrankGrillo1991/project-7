@@ -72,7 +72,7 @@ const dailyOptions = {
     }
 };
 
-let dailyChart = new Chart(dailyCanvas, {
+let dailyChart = new Chart(trafficCanvas, {
     type: 'bar',
     data: dailyData,
     options: dailyOptions
