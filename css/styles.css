@@ -78,6 +78,10 @@ header {
     box-sizing: border-box;
 }
 
+.header-image {
+    margin-right: 2rem;
+}
+
 .main {
     display: grid;
 }
