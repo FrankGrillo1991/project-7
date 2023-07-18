@@ -1,5 +1,6 @@
 const alertBanner = document.getElementById("alert");
 const trafficCanvas = document.getElementById("daily-chart");
+const dailyCanvas = document.getElementById("daily-chart");
 
 alertBanner.innerHTML = `<div class="alert-banner"><p><strong>Alert:</strong>You have unread messages</p>
 <p class="alert-banner-close">x</p>
@@ -52,6 +53,19 @@ const dailyData = {
         backgroundColor: '#7477BF',
         borderWidth: 1
     }]
+};
+
+const dailyOptions = {
+    scales: {
+        y: {
+            beginAtZero: true
+        }
+    },
+    plugins: {
+        legend: {
+            display: false
+        }
+    }
 };
 
 
