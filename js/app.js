@@ -105,7 +105,7 @@ const mobileOptions = {
     }
 };
 
-let mobileChart = new Chart(mobileCanvas, {
+let mobileCanvas = new Chart(mobileChart, {
     type: 'doughnut',
     data: mobileData,
     options: mobileOptions
