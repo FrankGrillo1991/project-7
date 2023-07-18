@@ -93,7 +93,7 @@ header {
 
     .bell-div {
         fill: white;
-        display: -webkit-box;
+        display: flex;
         margin-left: auto;
     }
 }
