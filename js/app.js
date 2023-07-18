@@ -1,6 +1,7 @@
 const alertBanner = document.getElementById("alert");
 const trafficCanvas = document.getElementById("daily-chart");
 const dailyCanvas = document.getElementById("daily-chart");
+const mobileCanvas = document.getElementById("mobile-chart");
 
 alertBanner.innerHTML = `<div class="alert-banner"><p><strong>Alert:</strong>You have unread messages</p>
 <p class="alert-banner-close">x</p>
@@ -66,6 +67,26 @@ const dailyOptions = {
             display: false
         }
     }
+};
+
+let dailyChart = new Chart(dailyCanvas, {
+    type: 'bar',
+    data: dailyData,
+    options: dailyOptions
+});
+
+const mobileData = {
+    labels: ["Desktop", "Tablet", "Phones"],
+    datasets: [{
+        label: '# of Users',
+        data: [2000, 550, 500],
+        borderWidth: 0,
+        backgroundColor: [
+            '#7477BF',
+            '#78CF82',
+            '#51B6C8'
+        ]
+    }]
 };
 
 
