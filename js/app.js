@@ -19,7 +19,7 @@ let trafficData = {
         backgroundColor: 'rgba(116, 119, 191, .3)',
         borderWidth: 1,
     }]
-}:
+};
 
 let trafficOptions = {
     backgroundColor: 'rgba(112, 104, 201, .5)',
