@@ -71,6 +71,8 @@ h1 {
 
 .nav-icon {
     width: 25px;
+    justify-content: space-between;
+    fill: white;
 }
 
 
