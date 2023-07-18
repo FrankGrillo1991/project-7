@@ -82,6 +82,14 @@ header {
 }
 
 @media (min-width: 768px) {
+
+    .bell-div {
+        display: -webkit-box;
+        margin-left: auto;
+    }
+}
+
+@media (min-width: 768px) {
     
     .header-image {
         margin-right: 2rem;
