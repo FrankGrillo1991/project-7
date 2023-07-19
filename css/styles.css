@@ -67,7 +67,7 @@ h1 {
     box-sizing: border-box;
 }
 
-.nav-icon {
+.nav-icon svg {
     width: 25px;
     justify-content: space-between;
     fill: white;
