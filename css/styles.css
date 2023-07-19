@@ -76,8 +76,8 @@ h1 {
 
 .tab {
     background-color: antiquewhite;
-    border-left: 50px;
-    border-bottom: 150px;
+    border-left: 50px lightgrey;
+    border-bottom: 150px lightgray;
 }
 
 main {
