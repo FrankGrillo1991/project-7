@@ -76,6 +76,10 @@ h1 {
     padding: 5px;
 }
 
+.main {
+    grid-area: main;
+}
+
 
 @media (min-width: 768px) {
     .grid-container {
