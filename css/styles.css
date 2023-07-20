@@ -75,9 +75,9 @@ h1 {
 }
 
 .tab {
-    background-color: gray;
-    border-left: 50px darkgray;
-    border-bottom: 150px darkgray;
+    overflow: hidden;
+    border: 1px solid gray;
+    background-color: lightgray;
 }
 
 main {
