@@ -96,6 +96,8 @@ h1 {
     color: white;
     width: 90%;
     height: 35px;
+    margin: auto;
+    border-radius: 15px;
 }
 
 main {
