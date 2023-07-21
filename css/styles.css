@@ -78,6 +78,8 @@ h1 {
     overflow: hidden;
     border: 1px solid gray;
     background-color: lightgray;
+    flex-direction: row;
+    width: 100%;
 }
 
 main {
