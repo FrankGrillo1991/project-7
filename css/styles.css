@@ -74,15 +74,14 @@ h1 {
     padding: 5px;
 }
 
-.headline {
-    flex-direction: row;
-}
 
 .tab {
     overflow: hidden;
     border: 1px solid gray;
     background-color: lightgray;
     width: 100%;
+    display: flex;
+    flex-direction: row;
 }
 
 main {
