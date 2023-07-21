@@ -91,6 +91,12 @@ h1 {
     width: 100%;
 }
 
+.alert {
+    background-color: blue;
+    color: white;
+    
+}
+
 main {
     grid-area: main;
 }
