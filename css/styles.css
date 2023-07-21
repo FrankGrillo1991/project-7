@@ -79,6 +79,10 @@ h1 {
     flex-direction: row;
 }
 
+.headline {
+    margin-right: auto;
+}
+
 
 .tab {
     overflow: hidden;
