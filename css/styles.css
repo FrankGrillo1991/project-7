@@ -94,7 +94,8 @@ h1 {
 .alert {
     background-color: blue;
     color: white;
-    
+    width: 90%;
+    height: 35px;
 }
 
 main {
