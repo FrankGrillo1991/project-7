@@ -113,7 +113,7 @@ li:first-child {
     display: inline-block;
     color: white;
     padding: 6px 8px;
-
+    border-radius: 5px;
 }
 
 li {
