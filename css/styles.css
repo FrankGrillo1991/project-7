@@ -130,6 +130,8 @@ li {
 
 .social-image {
     width: 50px;
+    justify-content: center;
+    align-items: center;
 }
 
 .social-text {
