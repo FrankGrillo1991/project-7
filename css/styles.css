@@ -131,6 +131,10 @@ li {
     width: 50px;
 }
 
+.social-text {
+    text-align: right;
+}
+
 
 main {
     grid-area: main;
