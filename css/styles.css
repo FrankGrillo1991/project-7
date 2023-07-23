@@ -137,11 +137,7 @@ li {
 .social-text {
     display: flex;
     justify-content: center;
-}
-
-.social-text:first-of-type {
     color: blue;
-}
 
 
 
