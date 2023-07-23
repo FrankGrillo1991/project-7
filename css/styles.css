@@ -133,6 +133,7 @@ li {
 
 .social-text {
     display: -webkit-box;
+    margin-left: auto;
 }
 
 
