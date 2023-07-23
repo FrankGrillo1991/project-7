@@ -115,6 +115,10 @@ li:first-child {
 
 }
 
+li {
+    display: inline-block;
+}
+
 
 main {
     grid-area: main;
