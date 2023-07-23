@@ -132,8 +132,7 @@ li {
 }
 
 .social-text {
-    display: -webkit-box;
-    margin-left: auto;
+    text-align: center;
 }
 
 
