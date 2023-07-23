@@ -139,7 +139,7 @@ li {
     justify-content: center;
 }
 
-.social-text:first-child {
+.social-text:first-of-type {
     color: blue;
 }
 
