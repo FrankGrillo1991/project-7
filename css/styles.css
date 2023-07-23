@@ -91,10 +91,6 @@ h1 {
     width: 100%;
 }
 
-.traffic {
-    border: 1px gray;
-    width: 100%;
-}
 
 .alert {
     background-color: blue;
@@ -137,8 +133,7 @@ li {
 }
 
 .social-text {
-    display: -webkit-box;
-    margin-left: auto;
+    text-align: justify;
 }
 
 
