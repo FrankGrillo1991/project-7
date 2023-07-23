@@ -143,6 +143,7 @@ li {
 .social-text:nth-child(2) {
     display: flex;
     justify-content: center;
+    color: black;
 }
 
 
