@@ -108,8 +108,8 @@ h1 {
     padding: 10px;
 }
 
-.traffic-nav {
-    white-space: nowrap;
+li {
+    display: inline-block;
 }
 
 
