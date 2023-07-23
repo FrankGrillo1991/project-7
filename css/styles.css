@@ -112,14 +112,14 @@ li:first-child {
     background-color: green;
     display: inline-block;
     color: white;
-    padding: 10px 14px;
+    padding: 8px 10px;
 
 }
 
 li {
     display: inline-block;
     text-align: center;
-    padding: 10px 12px;
+    padding: 8px 10px;
 }
 
 
