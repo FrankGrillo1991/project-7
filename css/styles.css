@@ -117,6 +117,7 @@ li:first-child {
 
 li {
     display: inline-block;
+    text-align: center;
 }
 
 
