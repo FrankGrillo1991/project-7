@@ -109,7 +109,10 @@ h1 {
 }
 
 li {
+    background-color: green;
     display: inline-block;
+    color: white;
+    
 }
 
 
