@@ -145,6 +145,11 @@ li {
     color: blue;
 }
 
+.social-stats {
+    display: flex;
+    justify-content: center;
+}
+
 
 main {
     grid-area: main;
