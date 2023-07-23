@@ -93,6 +93,7 @@ h1 {
 
 .traffic {
     border: 1px gray;
+    width: 100%;
 }
 
 .alert {
