@@ -127,6 +127,10 @@ li {
     width: 40px;
 }
 
+.social-image {
+    width: 50px;
+}
+
 
 main {
     grid-area: main;
