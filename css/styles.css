@@ -91,6 +91,10 @@ h1 {
     width: 100%;
 }
 
+.traffic {
+    border: 1px gray;
+}
+
 .alert {
     background-color: blue;
     color: white;
