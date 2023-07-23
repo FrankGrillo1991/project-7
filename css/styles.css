@@ -133,7 +133,8 @@ li {
 }
 
 .social-text {
-    text-align: justify;
+    display: flex;
+    justify-content: center;
 }
 
 
