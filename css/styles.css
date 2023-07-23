@@ -139,6 +139,12 @@ li {
     justify-content: center;
 }
 
+.social-name {
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
 
 main {
     grid-area: main;
