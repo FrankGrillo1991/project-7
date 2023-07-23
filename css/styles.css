@@ -140,6 +140,11 @@ li {
     color: blue;
 }
 
+.social-text:nth-child(2) {
+    display: flex;
+    justify-content: center;
+}
+
 
 
 main {
