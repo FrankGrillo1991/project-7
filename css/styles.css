@@ -108,11 +108,11 @@ h1 {
     padding: 10px;
 }
 
-li {
+li:first-child {
     background-color: green;
     display: inline-block;
     color: white;
-    
+
 }
 
 
