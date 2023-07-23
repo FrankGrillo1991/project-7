@@ -139,17 +139,10 @@ li {
     justify-content: center;
 }
 
-.social-name {
-    display: flex;
-    justify-content: center;
+.social-text:first-child {
     color: blue;
 }
 
-.social-stats {
-    word-wrap: break-word;
-    display: flex;
-    justify-content: center;
-}
 
 
 main {
