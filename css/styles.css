@@ -135,6 +135,7 @@ li {
 }
 
 .social-text {
+    word-wrap: break-word;
     display: flex;
     justify-content: center;
 }
