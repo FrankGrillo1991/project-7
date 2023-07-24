@@ -161,6 +161,7 @@ li {
     background-color: lightgray;
     margin: 5px;
     border-radius: 5px;
+    align-items: center;
 }
 
 .social-image {
@@ -173,7 +174,6 @@ li {
     fill: lightgray;
     background-color: blue;
     border-radius: 50%;
-    order: -1;
 }
 
 .social-text {
