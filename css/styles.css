@@ -171,6 +171,9 @@ li {
 .social-text {
     display: flex;
     justify-content: center;
+}
+
+.social-name::first-line {
     color: blue;
 }
 
