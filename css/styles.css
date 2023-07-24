@@ -56,6 +56,7 @@ h1 {
 /*class selector */
 
 .nav-bar {
+    grid-template-areas: nav-bar;
     grid-area: nav-bar;
     background-color: blue;
     width: 100%;
