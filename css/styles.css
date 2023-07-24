@@ -178,6 +178,7 @@ li {
 .social-image {
     display: flex;
     justify-content: center;
+    align-items: center;
     align-content: center;
     align-self: center;
 }
