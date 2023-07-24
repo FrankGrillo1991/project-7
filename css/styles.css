@@ -9,7 +9,7 @@ body {
     grid-template-areas: 
     "header"
     "nav-bar"
-    "grid-container";
+    "main";
 }
 
 /*element selector- targeting element on line 10 */
