@@ -252,6 +252,12 @@ header {
 }
 
 @media (min-width: 768px) {
+    .nav-bar {
+        grid-template-areas: nav-bar;
+    }
+}
+
+@media (min-width: 768px) {
 
 }
 .main {
