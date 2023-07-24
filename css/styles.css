@@ -124,6 +124,12 @@ li {
     padding: 6px 8px;
 }
 
+.members {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 .traffic {
     border-bottom: 5px solid gray;
 }
