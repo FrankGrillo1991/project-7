@@ -140,6 +140,11 @@ li {
     border-width: 90%;
 }
 
+.activity-container {
+    border-bottom: 5px solid gray;
+    border-width: 90%;
+}
+
 .profile-image {
     border-radius: 50%;
     width: 40px;
