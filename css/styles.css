@@ -157,6 +157,7 @@ li {
 
 .social-card {
     display: flex;
+    background-color: lightgray;
 }
 
 .social-image {
