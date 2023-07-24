@@ -175,15 +175,8 @@ li {
     align-self: center;
 }
 
-.profile-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    align-self: center;
-}
 
-.members-text {
+.members-container {
     text-align: center;
 }
 
