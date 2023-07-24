@@ -127,6 +127,14 @@ li {
     border-bottom: 5px solid gray;
 }
 
+.daily {
+    border-bottom: 5px solid gray;
+}
+
+.mobile {
+    border-bottom: 5px solid gray;
+}
+
 .profile-image {
     border-radius: 50%;
     width: 40px;
