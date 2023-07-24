@@ -123,6 +123,10 @@ li {
     padding: 6px 8px;
 }
 
+.traffic {
+    border-bottom: 5px solid gray;
+}
+
 .profile-image {
     border-radius: 50%;
     width: 40px;
