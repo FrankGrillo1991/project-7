@@ -149,6 +149,7 @@ li {
 .activity-container {
     border-bottom: 5px solid gray;
     border-width: 90%;
+    text-align: center;
 }
 
 .profile-image {
