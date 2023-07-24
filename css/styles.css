@@ -169,8 +169,8 @@ li {
     justify-content: center;
     align-items: center;
     padding: 10px;
-    fill: blue;
-    accent-color: blue;
+    fill: lightgray;
+    background-color: blue;
 }
 
 .social-text {
