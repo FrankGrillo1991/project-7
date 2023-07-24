@@ -173,6 +173,9 @@ li {
     justify-content: center;
     align-content: center;
     align-self: center;
+}
+
+.social-container {
     text-align: center;
 }
 
