@@ -151,6 +151,14 @@ li {
     width: 40px;
 }
 
+.social-container {
+    display: flex;
+}
+
+.social-card {
+    display: flex;
+}
+
 .social-image {
     width: 50px;
     justify-content: center;
