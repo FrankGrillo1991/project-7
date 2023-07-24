@@ -169,7 +169,7 @@ li {
     justify-content: center;
     align-items: center;
     padding: 10px;
-    background-color: blue;
+    fill: blue;
 }
 
 .social-text {
