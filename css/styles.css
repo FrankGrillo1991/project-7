@@ -172,6 +172,7 @@ li {
 .social-text {
     display: flex;
     justify-content: center;
+    padding: 10px;
 }
 
 .social-name::first-line {
