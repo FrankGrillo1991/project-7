@@ -160,6 +160,7 @@ li {
     display: flex;
     background-color: lightgray;
     margin: 5px;
+    border-radius: 5px;
 }
 
 .social-image {
