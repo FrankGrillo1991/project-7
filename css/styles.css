@@ -157,6 +157,7 @@ li {
 
 .card {
     display: flex;
+    flex-direction: column;
     background-color: lightgray;
     margin: 5px;
 }
