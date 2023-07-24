@@ -179,6 +179,7 @@ li {
 
 .social-name::first-line {
     color: blue;
+    font-size: 14px;
 }
 
 
