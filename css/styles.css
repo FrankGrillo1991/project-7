@@ -125,6 +125,7 @@ li {
 
 .traffic {
     border-bottom: 5px solid gray;
+    margin: auto;
 }
 
 .daily {
@@ -134,6 +135,7 @@ li {
 .mobile {
     border-bottom: 5px solid gray;
 }
+
 
 .members-container {
     border-bottom: 5px solid gray;
