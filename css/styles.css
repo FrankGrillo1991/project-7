@@ -170,6 +170,7 @@ li {
     align-items: center;
     padding: 10px;
     fill: blue;
+    accent-color: blue;
 }
 
 .social-text {
