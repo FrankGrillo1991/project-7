@@ -175,9 +175,7 @@ li {
     align-self: center;
 }
 
-.social-container {
-    display: flex;
-    justify-content: center;
+.members-text {
     text-align: center;
 }
 
