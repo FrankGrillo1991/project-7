@@ -158,6 +158,7 @@ li {
 .social-card {
     display: flex;
     background-color: lightgray;
+    margin: 5px;
 }
 
 .social-image {
