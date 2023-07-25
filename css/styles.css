@@ -211,7 +211,9 @@ main {
     grid-area: main;
 }
 
-
+input {
+    -webkit-appearance: none;
+}
 
 
 @media (min-width: 768px) {
