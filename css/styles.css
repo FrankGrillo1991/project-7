@@ -147,6 +147,8 @@ li {
 .mobile {
     border-bottom: 5px solid gray;
     margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
