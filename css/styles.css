@@ -156,6 +156,8 @@ li {
     border-bottom: 5px solid gray;
     border-width: 90%;
     margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .activity-container {
@@ -163,6 +165,8 @@ li {
     border-width: 90%;
     text-align: center;
     margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .profile-image {
@@ -173,6 +177,8 @@ li {
 .social-container {
     display: flex;
     flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .card {
@@ -192,6 +198,9 @@ li {
 
 .members-container {
     text-align: center;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .social-image {
