@@ -133,22 +133,19 @@ li {
 .traffic {
     border-bottom: 5px solid gray;
     margin: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 .daily {
     border-bottom: 5px solid gray;
     margin: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 .mobile {
     border-bottom: 5px solid gray;
     margin: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 
@@ -156,8 +153,7 @@ li {
     border-bottom: 5px solid gray;
     border-width: 90%;
     margin: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 .activity-container {
@@ -165,8 +161,8 @@ li {
     border-width: 90%;
     text-align: center;
     margin: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
+    
 }
 
 .profile-image {
@@ -177,8 +173,7 @@ li {
 .social-container {
     display: flex;
     flex-direction: column;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 .card {
@@ -199,8 +194,7 @@ li {
 .members-container {
     text-align: center;
     margin: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 .social-image {
