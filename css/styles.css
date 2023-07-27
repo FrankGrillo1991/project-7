@@ -156,6 +156,10 @@ li {
     padding: 10px;
 }
 
+.recent-activity {
+    padding: 10px;
+}
+
 .activity-container {
     border-bottom: 5px solid gray;
     border-width: 90%;
