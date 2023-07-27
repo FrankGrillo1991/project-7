@@ -264,6 +264,10 @@ input:checked::after {
     left: 70%;
 }
 
+.message {
+    padding: 10px;
+}
+
 
 
 
