@@ -231,7 +231,7 @@ main {
     grid-area: main;
 }
 
-/*input {
+input {
     -webkit-appearance: none;
     position: relative;
     width: 50px;
@@ -262,7 +262,7 @@ input:checked {
 
 input:checked::after {
     left: 70%;
-}*/
+}
 
 .toggle-switch {
     position: relative;
