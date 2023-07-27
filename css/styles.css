@@ -138,6 +138,7 @@ li {
 .daily {
     border-bottom: 5px solid gray;
     margin: 10px;
+    padding: 10px;
 }
 
 .mobile {
