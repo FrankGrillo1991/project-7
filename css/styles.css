@@ -249,13 +249,22 @@ input:checked::after {
 
 @media (min-width: 768px) {
     .grid-container {
-        grid-template-columns: 100%;
+        grid-template-columns: 40px 1fr;
         grid-template-rows: auto;
         grid-template-areas: 
-        "header"
-        "nav-bar"
-        "main";
+        "header header"
+        "nav-bar main";
     }
+}
+
+@media (min-width: 768px) {
+    .nav-bar {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        height: 100%;
+    }
+
 }
 
 @media (min-width: 768px) {
