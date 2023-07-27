@@ -102,6 +102,7 @@ h1 {
     border-radius: 5px;
     display: flex;
     margin: 10px;
+    padding: 5px;
 }
 
 .alert-banner {
