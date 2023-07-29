@@ -51,7 +51,7 @@ h1 {
 
 .bell-icon {
     width: 25px;
-    transition: 0.2s;
+    transition: margin-right 2s;
 }
 
 /*class selector */
