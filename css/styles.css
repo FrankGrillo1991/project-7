@@ -53,6 +53,10 @@ h1 {
     width: 25px;
 }
 
+.bell-icon:hover {
+    transition: .2s;
+}
+
 /*class selector */
 
 .nav-bar {
