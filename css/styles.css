@@ -283,6 +283,11 @@ input:checked::after {
     left: 70%;
 }
 
+.settings-button {
+    display: flex;
+    flex-direction: row;
+}
+
 .primary {
     background-color: blue;
     color: white;
