@@ -244,6 +244,7 @@ form {
 .form-area {
     margin-bottom: 10px;
     background-color: lightgray;
+    padding: 20px;
 }
 
 .button-primary {
