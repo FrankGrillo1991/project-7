@@ -288,6 +288,18 @@ input:checked::after {
     left: 70%;
 }
 
+.primary {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.button-disabled {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
 .toggle-switch {
     position: relative;
     display: inline-block;
