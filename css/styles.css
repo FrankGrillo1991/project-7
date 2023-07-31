@@ -231,7 +231,7 @@ main {
     grid-area: main;
 }
 
-input {
+input [type="checkbox"] {
     -webkit-appearance: none;
     position: relative;
     width: 50px;
