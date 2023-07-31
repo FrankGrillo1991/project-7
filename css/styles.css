@@ -246,6 +246,7 @@ form {
 
 .button-primary {
     background-color: blue;
+    color: white;
 }
 
 input[type="checkbox"] {
