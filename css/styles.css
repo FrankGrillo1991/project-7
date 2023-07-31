@@ -287,15 +287,15 @@ input:checked::after {
     display: inline-block;
 }
 
-.toggle-switch input {
+.toggle-switch {
     width: 88px;
 }
 
-.toggle-switch input::after {
+.toggle-switch::after {
     left: 23%;
 }
 
-.toggle-switch input::before {
+.toggle-switch::before {
     color: white;
     right: 11px;
     top: 9px;
@@ -303,7 +303,7 @@ input:checked::after {
     content: 'OFF';
 }
 
-.toggle-switch input:checked::before {
+.toggle-switch:checked::before {
     content: 'ON';
     left: 12px;
 }
