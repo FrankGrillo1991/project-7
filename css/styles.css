@@ -265,6 +265,7 @@ input[type="checkbox"] {
     transition: background .3s;
     outline: none;
     cursor: pointer;
+    flex-direction: column;
 }
 
 input::after {
