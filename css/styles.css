@@ -231,7 +231,7 @@ main {
     grid-area: main;
 }
 
-.input-switch {
+input {
     -webkit-appearance: none;
     position: relative;
     width: 50px;
@@ -243,7 +243,7 @@ main {
     cursor: pointer;
 }
 
-.input-switch::after {
+input::after {
     content: '';
     position: absolute;
     top: 50%;
@@ -256,28 +256,28 @@ main {
     transition: left .3s;
 }
 
-.input-switch:checked {
+input:checked {
     background-color: blue;
 }
 
-.input-switch:checked::after {
+input:checked::after {
     left: 70%;
 }
 
-.input-switch {
+.toggle-switch {
     position: relative;
     display: inline-block;
 }
 
-.input-switch input {
+.toggle-switch input {
     width: 88px;
 }
 
-.input-switch input::after {
+.toggle-switch input::after {
     left: 23%;
 }
 
-.input-switch input::before {
+.toggle-switch input::before {
     color: white;
     right: 11px;
     top: 9px;
@@ -285,7 +285,7 @@ main {
     content: 'OFF';
 }
 
-.input-switch input:checked::before {
+.toggle-switch input:checked::before {
     content: 'ON';
     left: 12px;
 }
