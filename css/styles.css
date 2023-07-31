@@ -238,11 +238,12 @@ form {
 
 .form-field {
     margin-bottom: 10px;
+    background-color: lightgray;
 }
 
 .form-area {
     margin-bottom: 10px;
-    background-color: gray;
+    background-color: lightgray;
 }
 
 .button-primary {
