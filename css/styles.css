@@ -231,7 +231,7 @@ main {
     grid-area: main;
 }
 
-input {
+.input-switch {
     -webkit-appearance: none;
     position: relative;
     width: 50px;
@@ -243,7 +243,7 @@ input {
     cursor: pointer;
 }
 
-input::after {
+.input-switch::after {
     content: '';
     position: absolute;
     top: 50%;
@@ -256,11 +256,11 @@ input::after {
     transition: left .3s;
 }
 
-input:checked {
+.input-switch:checked {
     background-color: blue;
 }
 
-input:checked::after {
+.input-switch:checked::after {
     left: 70%;
 }
 
