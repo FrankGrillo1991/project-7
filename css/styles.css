@@ -303,6 +303,7 @@ input:checked::after {
 .toggle-switch {
     position: relative;
     display: inline-block;
+    flex-direction: column;
 }
 
 .toggle-switch {
