@@ -231,6 +231,11 @@ main {
     grid-area: main;
 }
 
+form {
+    display: flex;
+    flex-direction: column;
+}
+
 input[type="checkbox"] {
     -webkit-appearance: none;
     position: relative;
