@@ -288,6 +288,13 @@ input:checked::after {
     flex-direction: row;
 }
 
+.button-primary {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+
 .primary {
     background-color: blue;
     color: white;
