@@ -324,6 +324,7 @@ label {
     flex-direction: row;
     justify-content: space-between;
     padding: 20px;
+    width: 100%;
 }
 
 .toggle-switch {
