@@ -330,7 +330,7 @@ label {
     position: relative;
     display: inline-block;
     flex-direction: center;
-    margin-left: auto;
+    margin-left: 0.2rem;
     width: 88px;
     text-align: center;
     align-self: center;
