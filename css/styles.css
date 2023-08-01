@@ -473,7 +473,7 @@ header {
 
 @media (min-width: 768px) {
 
-    .traffic-nav {
+    .traffic-header {
         justify-content: space-between;
     }
 
