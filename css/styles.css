@@ -470,3 +470,11 @@ header {
         width: 45vw;
     }
 }
+
+@media (min-width: 768px) {
+
+    .traffic-nav {
+        justify-content: space-between;
+    }
+
+}
