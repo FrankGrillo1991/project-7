@@ -433,16 +433,14 @@ label {
        grid-template-columns: 50%;
     }
 
-
+    .daily,
+    .numbers,
+    .message
     .traffic,
     .social-container {
         grid-column: 1 / span 2;
     }
 
-
-    .daily, .numbers, .message {
-        grid-column: 1 / span 1;
-    }
 
 
     .widget-container-full, .widget-container-half {
