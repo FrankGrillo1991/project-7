@@ -135,6 +135,10 @@ li {
     margin: 10px;
 }
 
+.traffic-nav {
+    padding-left: 0;
+}
+
 .daily {
     border-bottom: 5px solid gray;
     margin: 10px;
