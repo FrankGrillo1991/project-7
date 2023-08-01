@@ -474,6 +474,8 @@ header {
 @media (min-width: 768px) {
 
     .traffic-header {
+        display: flex;
+        flex-direction: row;
         justify-content: space-between;
     }
 
