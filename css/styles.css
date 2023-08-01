@@ -322,7 +322,7 @@ label {
 .toggle-div {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     padding: 20px;
 }
 
