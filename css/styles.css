@@ -428,10 +428,6 @@ label {
     }
 
 
-    main {   
-        display: grid;
-       grid-template-columns: 50%;
-    }
 
     .main,
     .traffic,
