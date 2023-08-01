@@ -315,7 +315,7 @@ input:checked::after {
 
 label {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 
