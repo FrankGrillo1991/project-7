@@ -433,9 +433,7 @@ label {
        grid-template-columns: 50%;
     }
 
-    .daily,
-    .numbers,
-    .message
+    .main,
     .traffic,
     .social-container {
         grid-column: 1 / span 2;
