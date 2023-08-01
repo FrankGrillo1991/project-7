@@ -331,11 +331,9 @@ label {
     display: inline-block;
     flex-direction: center;
     margin-left: auto;
-}
-
-.toggle-switch {
     width: 88px;
 }
+
 
 .toggle-switch::after {
     left: 23%;
