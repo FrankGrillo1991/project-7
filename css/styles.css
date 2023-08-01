@@ -329,7 +329,7 @@ label {
 .toggle-switch {
     position: relative;
     display: inline-block;
-    flex-direction: row;
+    flex-direction: center;
     margin-left: auto;
 }
 
