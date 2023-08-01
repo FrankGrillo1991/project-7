@@ -328,7 +328,7 @@ label {
 
 .toggle-switch {
     position: relative;
-    display: flex;
+    display: inline-block;
     flex-direction: row;
     margin-left: auto;
 }
