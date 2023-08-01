@@ -480,3 +480,19 @@ header {
     }
 
 }
+
+@media (min-width: 768px) {
+
+    #daily-chart {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media (min-width: 768px) {
+
+    #mobile-chart {
+        display: flex;
+        flex-direction: row;
+    }
+}
