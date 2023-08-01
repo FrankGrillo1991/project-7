@@ -466,18 +466,13 @@ main {
 
 
 
-
-    .daily {
+    .mobile {
         display: flex;
         flex-direction: row;
     }
 
-
-
-
-    .mobile {
+    .social-container {
         display: flex;
-        flex-direction: row;
     }
 
 }
