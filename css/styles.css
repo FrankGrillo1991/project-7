@@ -436,12 +436,12 @@ header {
 @media (min-width: 768px) {
 
 }
-.main {
+main {
     display: grid;
 }
 
 @media (min-width: 768px) {
-    .main {
+    main {
         grid-template-columns: 50%;
     }
 }
