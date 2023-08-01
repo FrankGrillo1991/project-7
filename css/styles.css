@@ -318,11 +318,6 @@ label {
     flex-direction: column;
 }
 
-.label-div {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
 
 .toggle-div {
     display: flex;
