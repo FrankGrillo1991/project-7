@@ -332,6 +332,8 @@ label {
     flex-direction: center;
     margin-left: auto;
     width: 88px;
+    text-align: center;
+    align-self: center;
 }
 
 
