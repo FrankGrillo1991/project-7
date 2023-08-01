@@ -330,7 +330,6 @@ label {
     position: relative;
     display: flex;
     flex-direction: row;
-    position: absolute;
 }
 
 .toggle-switch {
