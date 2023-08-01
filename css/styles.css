@@ -318,6 +318,9 @@ label {
     flex-direction: row;
 }
 
+.settings {
+    width: auto;
+}
 
 .toggle-div {
     display: flex;
