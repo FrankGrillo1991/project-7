@@ -461,6 +461,10 @@ label {
         justify-content: space-between;
     }
 
+    .social-container {
+        display: flex;
+        justify-content: space-between;
+    }
 
 
 }
