@@ -467,7 +467,11 @@ label {
     }
 
 
-
+    .social-container {
+        display: flex;
+        grid-column: 1 / span 2;
+        justify-content: space-between;
+    }
 
 
 }
