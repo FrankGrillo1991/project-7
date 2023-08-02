@@ -430,7 +430,7 @@ label {
         margin-right: 1.5rem;
         display: -webkit-box;
     }
-    .members,
+    
     .recent-activity
     .members-container,
     .activity-container,
@@ -441,6 +441,9 @@ label {
         text-align: left;
     }
 
+    .members {
+        text-align: left;
+    }
     
     .daily, 
     .mobile  {
