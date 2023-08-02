@@ -430,7 +430,8 @@ label {
         margin-right: 1.5rem;
         display: -webkit-box;
     }
-
+    .members,
+    .recent-activity
     .members-container,
     .activity-container,
     .message,
