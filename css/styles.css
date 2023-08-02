@@ -437,7 +437,8 @@ label {
     }
 
     .daily, 
-    .mobile {
+    .mobile, 
+    .social {
         display: inline-block;
     }
 
