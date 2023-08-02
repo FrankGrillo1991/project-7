@@ -431,7 +431,7 @@ label {
         display: -webkit-box;
     }
     
-    .social-container,
+    .social-container
     .recent-activity,
     .members,
     .members-container,
@@ -479,9 +479,5 @@ label {
         justify-content: space-between;
     }
 
-    .card {
-        display: flex;
-        align-items: flex-start;
-    }
 
 }
