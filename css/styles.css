@@ -468,5 +468,12 @@ label {
         width: 100%;
     }
 
+    .members,
+    .recent-activity {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
 
 }
