@@ -444,7 +444,6 @@ label {
     .card {
         margin: 20px;
         display: flex;
-        flex-direction: row;
         background-color: lightgray;
         margin: 5px;
         border-radius: 5px;
