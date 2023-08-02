@@ -374,6 +374,7 @@ label {
 
 @media (min-width: 768px) {
     .grid-container {
+        display: grid;
         grid-template-columns: 40px 1fr;
         grid-template-rows: auto;
         grid-template-areas: 
