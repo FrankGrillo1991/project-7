@@ -436,6 +436,10 @@ label {
         grid-column: 1 / span 2;
     }
 
+    .card {
+        display: inline-block;
+    }
+
     .daily, 
     .mobile, 
     .social- {
