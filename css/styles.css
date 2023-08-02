@@ -470,6 +470,7 @@ label {
     .social-container {
         display: flex;
         grid-column: 1 / span 2;
+        flex-direction: row;
         justify-content: space-between;
     }
 
