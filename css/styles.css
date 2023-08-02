@@ -436,13 +436,10 @@ label {
         grid-column: 1 / span 2;
     }
 
-    .card {
-        display: inline-block;
-        flex-direction: row;
-    }
-
+    
     .daily, 
-    .mobile {
+    .mobile, 
+    .social {
         display: inline-block;
     }
 
