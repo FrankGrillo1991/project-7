@@ -487,6 +487,7 @@ label {
         padding: 10px;
         padding-bottom: 10px;
         white-space: nowrap;
+        align-items: flex-start;
     }
 
 
