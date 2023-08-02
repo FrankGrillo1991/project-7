@@ -432,6 +432,8 @@ label {
 
     .members-container,
     .activity-container,
+    .message,
+    .settings,
     .traffic {
         grid-column: 1 / span 2;
     }
