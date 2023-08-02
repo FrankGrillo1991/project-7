@@ -437,13 +437,12 @@ label {
     }
 
     .card {
-        display: flex;
+        display: inline-block;
         flex-direction: row;
     }
 
     .daily, 
-    .mobile, 
-    .social- {
+    .mobile {
         display: inline-block;
     }
 
