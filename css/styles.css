@@ -450,6 +450,10 @@ label {
         border-bottom: 5px solid gray;
     }
 
+    .daily {
+        border-right: 5px solid gray;
+    }
+
 
 
     .widget-container-full,
