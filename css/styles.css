@@ -461,6 +461,10 @@ label {
 
 
 
+    .traffic-header {
+        display: flex;
+        justify-content: space-between;
+    }
 
 
 
