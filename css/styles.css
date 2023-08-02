@@ -431,6 +431,7 @@ label {
     }
 
     .members-container,
+    .activity-container,
     .traffic {
         grid-column: 1 / span 2;
     }
