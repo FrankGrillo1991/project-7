@@ -470,6 +470,7 @@ label {
 
     .members-container {
         display: flex;
+        flex-direction: column;
     }
 
 }
