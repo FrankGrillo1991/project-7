@@ -438,7 +438,7 @@ label {
 
     .daily, 
     .mobile, 
-    .social-container {
+    .social- {
         display: inline-block;
     }
 
@@ -465,12 +465,6 @@ label {
 
     .social-container {
         display: flex;
-        flex-direction: column;
-    }
-
-    .members-container {
-        display: flex;
-        flex-direction: column;
     }
 
 }
