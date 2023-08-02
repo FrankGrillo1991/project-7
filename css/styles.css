@@ -465,6 +465,7 @@ label {
 
     .social-container {
         display: flex;
+        flex-direction: column;
     }
 
     .members-container {
