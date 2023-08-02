@@ -430,7 +430,7 @@ label {
         display: -webkit-box;
     }
 
-    .members,
+    .members-container,
     .traffic {
         grid-column: 1 / span 2;
     }
