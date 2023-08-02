@@ -441,11 +441,6 @@ label {
         display: inline-block;
     }
 
-    .card {
-        display: flex;
-        align-items: flex-start;
-        align-self: flex-start;
-    }
 
 
     .widget-container-full, .widget-container-half {
