@@ -479,5 +479,9 @@ label {
         justify-content: space-between;
     }
 
+    .card {
+        display: flex;
+        align-items: flex-start;
+    }
 
 }
