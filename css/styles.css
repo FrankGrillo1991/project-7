@@ -431,8 +431,7 @@ label {
     }
 
 
-    .traffic,
-    .social-container {
+    .traffic {
         grid-column: 1 / span 2;
     }
 
