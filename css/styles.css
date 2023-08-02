@@ -447,6 +447,7 @@ label {
     .daily, 
     .mobile  {
         display: inline-block;
+        border-bottom: 5px solid gray;
     }
 
 
