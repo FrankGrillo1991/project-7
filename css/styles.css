@@ -431,13 +431,15 @@ label {
     }
 
 
-    .daily,
-    .mobile,
     .traffic,
     .social-container {
         grid-column: 1 / span 2;
     }
 
+    .daily, 
+    .mobile {
+        display: inline-block;
+    }
 
 
     .widget-container-full, .widget-container-half {
