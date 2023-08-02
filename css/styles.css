@@ -443,10 +443,6 @@ label {
         display: inline-block;
     }
 
-.members-container {
-    display: flex;
-    flex-direction: column;
-}
 
     .widget-container-full, .widget-container-half {
     width: 95vw;
