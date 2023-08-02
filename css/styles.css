@@ -431,7 +431,7 @@ label {
         display: -webkit-box;
     }
     
-    .recent-activity
+    .recent-activity,
     .members-container,
     .activity-container,
     .message,
@@ -441,9 +441,6 @@ label {
         text-align: left;
     }
 
-    .members {
-        text-align: left;
-    }
     
     .daily, 
     .mobile  {
