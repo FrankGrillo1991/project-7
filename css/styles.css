@@ -479,7 +479,6 @@ label {
 
     .social-container {
         display: flex;
-        grid-column: 1 / span 2;
         flex-direction: row;
         justify-content: space-between;
         border-bottom: 5px solid gray;
@@ -487,7 +486,6 @@ label {
         padding: 10px;
         padding-bottom: 10px;
         white-space: nowrap;
-        align-items: stretch;
     }
 
 
