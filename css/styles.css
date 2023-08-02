@@ -437,7 +437,8 @@ label {
     }
 
     .card {
-        display: inline-block;
+        display: flex;
+        flex-direction: row;
     }
 
     .daily, 
