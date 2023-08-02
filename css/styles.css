@@ -477,6 +477,7 @@ label {
         grid-column: 1 / span 2;
         flex-direction: row;
         justify-content: space-between;
+        border-bottom: 5px solid gray;
     }
 
 
