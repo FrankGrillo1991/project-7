@@ -470,9 +470,7 @@ label {
 
     .members,
     .recent-activity {
-        display: flex;
-        text-align: center;
-        width: 100%;
+        text-align: left;
     }
 
 
