@@ -381,7 +381,10 @@ label {
         "nav-bar main";
     }
 
-
+    .main {
+        display: grid;
+        grid-template-columns: 50%;
+    }
 
     .nav-bar {
         display: flex;
@@ -428,8 +431,8 @@ label {
     }
 
 
-
-    .main,
+    .daily,
+    .mobile,
     .traffic,
     .social-container {
         grid-column: 1 / span 2;
@@ -456,15 +459,6 @@ label {
         justify-content: space-between;
     }
 
-
-
-
-
-
-    .mobile {
-        display: flex;
-        flex-direction: row;
-    }
 
     .social-container {
         display: flex;
