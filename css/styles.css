@@ -457,6 +457,16 @@ label {
         border-right: 5px solid gray;
     }
 
+    .social-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-container {
+        display: flex;
+        flex-direction: row;
+    }
+
 
 
     .widget-container-full,
