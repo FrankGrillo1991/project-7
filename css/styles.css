@@ -462,6 +462,7 @@ label {
     .widget-container-full,
     .widget-container-half {
     width: 95vw;
+    grid-column: 1 / span 2;
     }
 
 
