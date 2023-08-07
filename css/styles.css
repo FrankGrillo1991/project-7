@@ -431,6 +431,7 @@ label {
         display: -webkit-box;
     }
     
+    .alert,
     .social-container,
     .recent-activity,
     .members,
