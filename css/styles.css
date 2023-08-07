@@ -445,7 +445,8 @@ label {
     }
 
     .alert {
-        width: 100vw;
+        grid-column: 1/ span 2;
+        text-align: left;
     }
 
     .daily, 
