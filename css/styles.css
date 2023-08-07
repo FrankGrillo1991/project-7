@@ -429,6 +429,7 @@ label {
     }
     
     .alert,
+    .dashboard-container,
     .social-container,
     .recent-activity,
     .members,
@@ -460,7 +461,7 @@ label {
 
     .widget-container-full,
     .widget-container-half {
-    width: 95vw;
+    width: 92vw;
     grid-column: 1 / span 2;
     }
 
