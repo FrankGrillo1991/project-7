@@ -141,10 +141,12 @@ li {
 
 .daily {
     border-bottom: 5px solid gray;
+    padding-left: 5px;
 }
 
 .mobile {
     border-bottom: 5px solid gray;
+    padding-left: 5px;
 }
 
 
