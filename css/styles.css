@@ -444,7 +444,11 @@ label {
         text-align: left;
     }
 
-    
+    .alert {
+        grid-column: 1 / span 2;
+        text-align: left;
+    }
+
     .daily, 
     .mobile  {
         display: inline-block;
