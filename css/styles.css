@@ -471,13 +471,12 @@ label {
 
     .widget-container-full,
     .widget-container-half {
-    width: 92vw;
     grid-column: 1 / span 2;
     }
 
 
     .widget-container-full {
-        width: 95vw;
+        width: 92vw;
     }
     .widget-container-half {
         width: 40vw;
