@@ -428,6 +428,7 @@ label {
         display: -webkit-box;
     }
     
+    header,
     .alert,
     .dashboard-container,
     .social-container,
