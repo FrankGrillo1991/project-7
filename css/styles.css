@@ -530,3 +530,14 @@ label {
     }
 }
 
+@media (min-width: 1024px) {
+
+    .members-container {
+        grid-column: 1;
+    }
+
+    .activity-container {
+        grid-column: 1;
+    }
+}
+
