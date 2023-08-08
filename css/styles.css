@@ -519,5 +519,14 @@ label {
         width: 100%;
     }
 
+    .activity-container {
+        display: flex;
+    }
+
+    .activity-text-container {
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
 }
 
