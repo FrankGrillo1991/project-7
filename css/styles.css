@@ -534,12 +534,12 @@ label {
 
     .members-container {
         display: flex;
-        grid-column: 1;
+        grid-column: 1 / span 1;
     }
 
     .activity-container {
         display: flex;
-        grid-column: 1;
+        grid-column: 2 / span 1;
     }
 }
 
