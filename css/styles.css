@@ -504,6 +504,7 @@ label {
     .members {
         display: flex;
         text-align: right;
+        align-items: end;
     }
 
 }
