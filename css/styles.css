@@ -502,7 +502,8 @@ label {
     }
 
     .profile-image{
-        margin-right: auto;
+        border-radius: 50%;
+        height: 40px;
     }
 
     .members-container {
