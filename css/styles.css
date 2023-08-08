@@ -503,15 +503,3 @@ label {
 
 
 }
-
-@media (min-width: 1024px) {
-
-    .members {
-        grid-column: 1;
-    }
-
-    .recent-activity {
-        grid-column: 2;
-    }
-
-}
