@@ -533,10 +533,12 @@ label {
 @media (min-width: 1024px) {
 
     .members-container {
+        display: flex;
         grid-column: 1;
     }
 
     .activity-container {
+        display: flex;
         grid-column: 1;
     }
 }
