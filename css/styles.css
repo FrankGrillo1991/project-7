@@ -504,6 +504,7 @@ label {
     .profile-image{
         border-radius: 50%;
         height: 40px;
+        margin-right: 10px;
     }
 
     .members-container {
