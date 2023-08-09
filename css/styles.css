@@ -532,12 +532,14 @@ label {
 
 @media (min-width: 1024px) {
 
-    .members-container {
+    .members,
+    .message {
         display: flex;
         grid-column: 1 / span 1;
     }
 
-    .activity-container {
+    .recent-activity,
+    .settings {
         display: flex;
         grid-column: 2 / span 1;
     }
