@@ -539,7 +539,6 @@ label {
 
     .members,
     .message {
-        display: flex;
         grid-template-columns: 1fr 1fr;
         grid-column: 1 / span 1;
         width: 50%;
@@ -547,7 +546,6 @@ label {
 
     .recent-activity,
     .settings {
-        display: flex;
         grid-template-columns: 1fr 1fr;
         grid-column: 2 / span 1;
         width: 50%;
