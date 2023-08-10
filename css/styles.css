@@ -552,6 +552,11 @@ label {
         margin-bottom: 50px;
     }
 
+    .members-container,
+    .activity-container {
+        height: 40px;
+    }
+
     .members {
         padding: 10px;
         border-right: 5px solid gray;
