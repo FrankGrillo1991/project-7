@@ -548,6 +548,10 @@ label {
         grid-column: 2 / span 1;
     }
 
+    .message {
+        margin-bottom: 20px;
+    }
+
     .members {
         margin-bottom: 20px;
     }
