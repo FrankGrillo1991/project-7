@@ -547,6 +547,7 @@ label {
     .settings {
         grid-template-columns: 1fr 1fr;
         grid-column: 2 / span 1;
+        margin-bottom: 10px;
     }
 }
 
