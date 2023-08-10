@@ -553,7 +553,8 @@ label {
     }
 
     .members {
-        margin-bottom: 20px;
+        padding: 10px;
+        border-right: 5px solid gray;
     }
 
     .settings {
