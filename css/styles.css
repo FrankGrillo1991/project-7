@@ -549,6 +549,10 @@ label {
         grid-column: 2 / span 1;
     }
 
+    .members {
+        margin-bottom: 20px;
+    }
+
     .settings {
         margin-bottom: 20px;
     }
