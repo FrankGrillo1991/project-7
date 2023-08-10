@@ -560,5 +560,13 @@ label {
     .settings {
         margin-bottom: 60px;
     }
+
+    .container {
+        margin-bottom: 40px;
+    }
+
+    .form-field {
+        margin-bottom: 40px;
+    }
 }
 
