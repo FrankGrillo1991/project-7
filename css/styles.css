@@ -47,6 +47,7 @@ h1 {
     fill: white;
     border-right: solid;
     height: 100%;
+    transition: background-color 2s;
 }
 
 .bell-div:hover {
@@ -550,6 +551,7 @@ label {
 
     .message {
         margin-bottom: 50px;
+        border-right: 5px solid gray;
     }
 
     .members-container,
